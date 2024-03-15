@@ -1,0 +1,11 @@
+{
+	"name": "viteflow-install-test",
+	"type": "module",
+	"scripts": {
+		"build": "viteflow --build",
+		"dev": "viteflow"
+	},
+	"dependencies": {
+		"viteflow": "^0.0.2-b"
+	}
+}
